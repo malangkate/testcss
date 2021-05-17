@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://nongnghieppho.vn';
+	var url_popup = 'https://nhacuathoithanhxuan.com/blogs/tinh-dau-va-xa-phong-handmade/tinh-dau-duoi-muoi';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'https://nhacuathoithanhxuan.com/blogs/tinh-dau-va-xa-phong-handmade/tagged/tinh-dau-duoi-muoi';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
